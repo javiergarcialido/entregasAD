@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<videojugador>
+    <videojugadores>
+        <videojugador>
+            <id>1</id>
+            <nombre>manolito99</nombre>
+            <edad>23</edad>
+        </videojugador>
+        <videojugador>
+            <id>2</id>
+            <nombre>pepe1234</nombre>
+            <edad>29</edad>
+        </videojugador>
+    </videojugadores>
+</videojugador>
